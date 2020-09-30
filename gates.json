@@ -1,0 +1,56 @@
+{
+    "and": {
+        "entry_1":{
+            "x_values": [0,0],
+            "output": 0
+        },
+        "entry_2":{
+            "x_values": [1,0],
+            "output": 0
+        },
+        "entry_3":{
+            "x_values": [0,1],
+            "output": 0
+        },
+        "entry_4":{
+            "x_values": [1,1],
+            "output": 1
+        }
+    },
+    "or": {
+        "entry_1":{
+            "x_values": [0,0],
+            "output": 0
+        },
+        "entry_2":{
+            "x_values": [1,0],
+            "output": 1
+        },
+        "entry_3":{
+            "x_values": [0,1],
+            "output": 1
+        },
+        "entry_4":{
+            "x_values": [1,1],
+            "output": 1
+        }
+    },
+    "custom_1": {
+        "entry_1":{
+            "x_values": [0,0],
+            "output": 1
+        },
+        "entry_2":{
+            "x_values": [1,0],
+            "output": 1
+        },
+        "entry_3":{
+            "x_values": [0,1],
+            "output": 1
+        },
+        "entry_4":{
+            "x_values": [1,1],
+            "output": 0
+        }
+    }
+}
